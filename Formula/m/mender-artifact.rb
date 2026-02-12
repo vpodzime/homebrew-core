@@ -64,7 +64,7 @@ class MenderArtifact < Formula
         Format: mender
         Version: 3
         Signature: no signature
-        Compatible devices: [beaglebone]
+        Compatible types: [beaglebone]
     EOS
   end
 end
